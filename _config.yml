@@ -1,11 +1,11 @@
 # Site settings
 author: Dylan Crawshaw
-title: 
+title: Freshman Year: A Deep Dive into the World of Web Development
 header-img: img/home-bg.png
 email: dcrawsh@gmail.com
 copyright_name: Dylan Crawshaw
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lo-fi Indie Rock 'n' Roll coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dcrawsh
