@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      " It's CLI way or the highway...a ruby gem among the rough!!!"
-date:       2019-10-08 20:35:35 +0000
+date:       2019-10-08 16:35:36 -0400
 permalink:  its_cli_way_or_the_highway_a_ruby_gem_among_the_rough
 ---
 
