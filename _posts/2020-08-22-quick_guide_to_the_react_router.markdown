@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Quick Guide to the React Router"
-date:       2020-08-23 03:50:37 +0000
+date:       2020-08-22 23:50:38 -0400
 permalink:  quick_guide_to_the_react_router
 ---
 
