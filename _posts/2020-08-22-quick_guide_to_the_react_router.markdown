@@ -48,8 +48,11 @@ permalink:  quick_guide_to_the_react_router
                 </Link>
                 <Link to='/posts/new'>
                     <li>Create New</li>
-                </Link>```
+                </Link>
+								```
 		-add a to attribute of **to** with the URL.
+		
+		Following these simple steps should get you going for many basic routes.
 			
 			
 		
